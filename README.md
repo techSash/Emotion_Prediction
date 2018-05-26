@@ -15,8 +15,19 @@ This data was collected by scrapping the web for statement based on the emotion.
 
 The dataset is pretty small and affects the accuracy of the classifier. The point of the project was to implement machine learning models to train and predict emotions. More data can be collected to increase the accuracy of the machine learning model. 
 
-The shape of the dataset is as follows
+The shape of the dataset 727 X 2.
 
+The amount of data corresponing to each class is as follows:
 
+1. Happy: 171
+2. Sad: 212
+3. Angry: 82
+4. Sarcastic: 258
 
-The data is not even with very few statemtns for the angry class. 
+It is clear that the data is not even with very few data correspoding to the angry class. This dataset can be cleaned to make the data more even or more data can be collected. 
+
+## DEPENDENCIES
+
+1. nltk
+2. pandas
+3. matplotlib
