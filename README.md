@@ -2,7 +2,11 @@
 
 This project implements the machine learning model, naive bayes classifier to predict the emotion in a statement. 
 
+2 Jupyter notebooks are provided. The 'Sentiment Prediction.ipynb' contains the code for emotion prediction and 'Data Viz.ipynb' contains code for data visualization.
+
 ## DATASET
+
+The dataset is available as 'dataset.csv'
 
 The data is divided into 4 classes or emotions. The classes are
 
